@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ccrabbs
 - 👀 I’m interested in c# and 3DPrinting
-- 🌱 I’m currently learning go, python, Java, JavaScript, Rust and TypeScript
+- 🌱 I’m currently learning Go, Python, Java, JavaScript, Rust and TypeScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ccrabbs@hotmail.com
 
